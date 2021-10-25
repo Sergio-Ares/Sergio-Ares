@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sergio-Ares
+- 👀 I’m interested in Tech
+- 🌱 I’m currently learning web developing
+- 📫 How to reach me: sergioares.dev@gmail.com
